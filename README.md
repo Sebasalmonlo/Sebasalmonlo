@@ -6,9 +6,9 @@
 
 | Project | What it does | Status |
 |---|---|---|
-| [playwright-sentinel](https://github.com/Sebasalmonlo/playwright-sentinel) | Flakiness scoring + health tracking for Playwright suites |  ✅V1 |
+| [playwright-sentinel](https://github.com/Sebasalmonlo/playwright-sentinel) | Flakiness scoring + health tracking for Playwright suites |  ✅V1.1 |
 | [specwatch](https://github.com/Sebasalmonlo/specwatch) | API contract drift detector — validates live APIs against OpenAPI specs | ✅V1 |
-| [TestLens](https://github.com/Sebasalmonlo/testlens) | Upload a screen recording → get a full test case repository, AI-generated | 🚧 Finishing |
+| [TestLens](https://github.com/Sebasalmonlo/testlens) | Upload a screen recording → get a full test case repository, AI-generated | ✅V1.1 |
 
 ## 🧰 Stack
 
